@@ -1,7 +1,7 @@
-Nim: 2022500114
-Nama: Vallen Missel Valemorin
-Kelompok: SI2K
-
-Hasil yang saya simpulkan adalah:
-1.Tugas yang dikumpulkan diberi nama index.html
-2.Membuat dokumen html untuk multimedia dan link
+Nim: 2022500114<br>
+Nama: Vallen Missel Valemorin<br>
+Kelompok: SI2K<br>
+<br>
+Hasil yang saya simpulkan adalah:<br>
+1.Tugas yang dikumpulkan diberi nama index.html<br>
+2.Membuat dokumen html untuk multimedia dan link<br>
