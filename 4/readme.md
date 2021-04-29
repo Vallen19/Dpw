@@ -1,6 +1,7 @@
 NIM:2022500114<br>
 NAMA:VALLEN MISSEL VALEMORIN<br>
 KELOMPOK:SI2K<br>
+
   
   Hasil yang saya simpulkan adalah:<br>
   1. Membuat tabel sederhana (tabel1.html)<br>
